@@ -1,0 +1,6 @@
+body{width:960px; margin-left: auto;margin-right:auto;margin-top: 35px;}
+.top{padding:8px;height:35px;width:100%;position:absolute;top:0px;left:0px;background-color:#f8f8f8;border-bottom:0.5px solid #cad9ea; }
+.navbar-nav li{border-right:0.5px solid #4D88C9;}
+.navbar-nav li:hover{background-color: #004198;}
+.z{height:26px}
+

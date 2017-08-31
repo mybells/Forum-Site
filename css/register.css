@@ -1,0 +1,11 @@
+	   body{margin:0;padding:0:;background-color:#e6e6e6;}
+	   div{height:380px;margin: 140px auto 0 auto;width: 40%;min-width:340px;background-color:#fff;border-radius: 10px;padding:30px; }
+	   img{position: absolute;top: 0;left:44%;height:150px;}
+	   legend{width:95%;font-size: 26px;color:#004198;font-weight:bold;border-bottom: 3px solid #004198;padding-bottom: 10px;}
+	   .label{ color: #8c8c8c;}
+	   .input{width:300px;font-size: 14px;padding: 6px 12px;margin-top: 7px;color: #8c8c8c;border-radius: 5px;border:1px solid #8c8c8c;}
+	   .submit{background-color:#004198;padding: 6px 12px;width:328px;font-size: 20px;font-weight:bold;color: #fff;border-radius: 5px;border:1px solid #53b481;}
+	   .gender{color: #8c8c8c;}
+	   {color: #8c8c8c;}
+	   .qw{font-size: 14px;color:#8c8c8c;float:right;margin-top: 18px;}
+	   a{color:#8c8c8c}
